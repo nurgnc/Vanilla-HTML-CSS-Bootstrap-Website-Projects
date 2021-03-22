@@ -75,4 +75,18 @@
 
 /* Start About Area */
 
+.site-main .about-area {
+    padding: 8rem 5rem;
+}
+
+.site-main .about-area .about-title h2>span {
+    display: block;
+    font: normal bold 49px/60px var(--roboto);
+    letter-spacing: 21px;
+}
+
+.site-main .about-area .about-title .paragraph>p {
+    padding: 1.2rem 0;
+}
+
 /* Start About Area */
